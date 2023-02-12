@@ -1,0 +1,4 @@
+/home/alyona/Загрузки/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/alyona/Загрузки/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/alyona/CLionProjects/computational_methods/nonlinear_equations_ex1 -B /home/alyona/CLionProjects/computational_methods/nonlinear_equations_ex1/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alyona/CLionProjects/computational_methods/nonlinear_equations_ex1/cmake-build-debug
