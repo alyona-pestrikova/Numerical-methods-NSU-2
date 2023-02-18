@@ -79,6 +79,12 @@ build CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/newton_method/newto
   OBJECT_DIR = CMakeFiles/nonlinear_equations_ex1.dir
   OBJECT_FILE_DIR = CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/newton_method
 
+build CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/relaxation_method/relaxation_method.cpp.o: CXX_COMPILER__nonlinear_equations_ex1_Debug /home/alyona/CLionProjects/computational_methods/nonlinear_equations_ex1/cmake-build-debug/solving_methods/relaxation_method/relaxation_method.cpp || cmake_object_order_depends_target_nonlinear_equations_ex1
+  DEP_FILE = CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/relaxation_method/relaxation_method.cpp.o.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles/nonlinear_equations_ex1.dir
+  OBJECT_FILE_DIR = CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/relaxation_method
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target nonlinear_equations_ex1
@@ -87,7 +93,7 @@ build CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/newton_method/newto
 #############################################
 # Link the executable nonlinear_equations_ex1
 
-build nonlinear_equations_ex1: CXX_EXECUTABLE_LINKER__nonlinear_equations_ex1_Debug CMakeFiles/nonlinear_equations_ex1.dir/main.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/bisection_method/bisection_method.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/simple_iteration/simple_iteration.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/NonlinearEq.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/newton_method/newton_method.cpp.o
+build nonlinear_equations_ex1: CXX_EXECUTABLE_LINKER__nonlinear_equations_ex1_Debug CMakeFiles/nonlinear_equations_ex1.dir/main.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/bisection_method/bisection_method.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/simple_iteration/simple_iteration.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/NonlinearEq.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/newton_method/newton_method.cpp.o CMakeFiles/nonlinear_equations_ex1.dir/solving_methods/relaxation_method/relaxation_method.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/nonlinear_equations_ex1.dir
   POST_BUILD = :

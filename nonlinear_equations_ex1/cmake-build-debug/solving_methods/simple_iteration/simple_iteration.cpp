@@ -4,7 +4,7 @@
 #include "simple_iteration.h"
 
 double SimpleIter::psi(double x) {
-    return x + 0.16 * f(x);
+    return x + f(x);
 }
 
 double SimpleIter::solution() {

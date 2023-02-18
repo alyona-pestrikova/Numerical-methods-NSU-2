@@ -19,7 +19,7 @@ Newton::Newton(double start, double end, double e) : NonlinearEq(start, end, e) 
 }
 
 double Newton::df(double x) {
-    return 2 * x;
+    return (f(x + epsilon) - f(x)) / (epsilon);
 }
 
 double Newton::psi(double x) {

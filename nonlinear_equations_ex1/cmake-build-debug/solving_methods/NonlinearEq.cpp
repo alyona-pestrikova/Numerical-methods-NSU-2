@@ -8,7 +8,7 @@ using namespace std;
 
 
 double NonlinearEq::f(double x) {
-    return x * x - 9;
+    return cos(x) - sin(x);
 }
 
 NonlinearEq::NonlinearEq(double start, double end, double e) {

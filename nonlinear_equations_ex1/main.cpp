@@ -3,12 +3,13 @@
 #include "cmake-build-debug/solving_methods/simple_iteration/simple_iteration.h"
 #include "cmake-build-debug/solving_methods/bisection_method/bisection_method.h"
 #include "cmake-build-debug/solving_methods/newton_method/newton_method.h"
+#include "cmake-build-debug/solving_methods/relaxation_method/relaxation_method.h"
 using namespace std;
 
 int main() {
 
     //отрезок
-    double a = -3;
+    double a = -2;
     double b = 2;
 
     double epsilon = 0.0000001;
