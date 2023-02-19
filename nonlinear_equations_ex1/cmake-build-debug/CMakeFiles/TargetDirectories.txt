@@ -1,3 +1,0 @@
-/home/alyona/CLionProjects/computational_methods/nonlinear_equations_ex1/cmake-build-debug/CMakeFiles/nonlinear_equations_ex1.dir
-/home/alyona/CLionProjects/computational_methods/nonlinear_equations_ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alyona/CLionProjects/computational_methods/nonlinear_equations_ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
