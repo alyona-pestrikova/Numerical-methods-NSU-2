@@ -1,9 +1,9 @@
 #include <iostream>
 
-#include "methods/bisection_method.h"
-#include "methods/newton_method.h"
-#include "methods/simple_iteration_method.h"
-#include "methods/relaxation_method.h"
+#include "nonlinear_eq_solving/bisection_method.h"
+#include "nonlinear_eq_solving/newton_method.h"
+#include "nonlinear_eq_solving/simple_iteration_method.h"
+#include "nonlinear_eq_solving/relaxation_method.h"
 
 using namespace std;
 

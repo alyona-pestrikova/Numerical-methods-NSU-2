@@ -55,35 +55,35 @@ build CMakeFiles/Numerical_methods_NSU_2.dir/main.cpp.obj: CXX_COMPILER__Numeric
   OBJECT_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
   OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
 
-build CMakeFiles/Numerical_methods_NSU_2.dir/methods/bisection_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/methods/bisection_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
-  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\methods\bisection_method.cpp.obj.d
+build CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/bisection_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/nonlinear_eq_solving/bisection_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
+  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving\bisection_method.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\methods
+  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving
 
-build CMakeFiles/Numerical_methods_NSU_2.dir/methods/simple_iteration_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/methods/simple_iteration_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
-  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\methods\simple_iteration_method.cpp.obj.d
+build CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/simple_iteration_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/nonlinear_eq_solving/simple_iteration_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
+  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving\simple_iteration_method.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\methods
+  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving
 
-build CMakeFiles/Numerical_methods_NSU_2.dir/methods/relaxation_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/methods/relaxation_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
-  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\methods\relaxation_method.cpp.obj.d
+build CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/relaxation_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/nonlinear_eq_solving/relaxation_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
+  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving\relaxation_method.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\methods
+  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving
 
-build CMakeFiles/Numerical_methods_NSU_2.dir/methods/newton_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/methods/newton_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
-  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\methods\newton_method.cpp.obj.d
+build CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/newton_method.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/nonlinear_eq_solving/newton_method.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
+  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving\newton_method.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\methods
+  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving
 
-build CMakeFiles/Numerical_methods_NSU_2.dir/methods/nonlinear_equation.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/methods/nonlinear_equation.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
-  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\methods\nonlinear_equation.cpp.obj.d
+build CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/nonlinear_equation.cpp.obj: CXX_COMPILER__Numerical_methods_NSU_2_Debug C$:/CppProjects/Numerical-methods-NSU-2/nonlinear_eq_solving/nonlinear_equation.cpp || cmake_object_order_depends_target_Numerical_methods_NSU_2
+  DEP_FILE = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving\nonlinear_equation.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\methods
+  OBJECT_FILE_DIR = CMakeFiles\Numerical_methods_NSU_2.dir\nonlinear_eq_solving
 
 
 # =============================================================================
@@ -93,7 +93,7 @@ build CMakeFiles/Numerical_methods_NSU_2.dir/methods/nonlinear_equation.cpp.obj:
 #############################################
 # Link the executable Numerical_methods_NSU_2.exe
 
-build Numerical_methods_NSU_2.exe: CXX_EXECUTABLE_LINKER__Numerical_methods_NSU_2_Debug CMakeFiles/Numerical_methods_NSU_2.dir/main.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/methods/bisection_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/methods/simple_iteration_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/methods/relaxation_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/methods/newton_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/methods/nonlinear_equation.cpp.obj
+build Numerical_methods_NSU_2.exe: CXX_EXECUTABLE_LINKER__Numerical_methods_NSU_2_Debug CMakeFiles/Numerical_methods_NSU_2.dir/main.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/bisection_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/simple_iteration_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/relaxation_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/newton_method.cpp.obj CMakeFiles/Numerical_methods_NSU_2.dir/nonlinear_eq_solving/nonlinear_equation.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Numerical_methods_NSU_2.dir
