@@ -10,8 +10,8 @@
 
 class bisection_method: public nonlinear_equation {
 private:
+    double solution(double, double) override;
 public:
-    double solution(double a, double b) override;
 };
 
 

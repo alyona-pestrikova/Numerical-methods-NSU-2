@@ -16,9 +16,9 @@
 
 class simple_iteration_method: public nonlinear_equation {
 private:
-    double psi(double x);
+    double psi(double); //выражаем x из f(x) = 0
+    double solution(double, double) override;
 public:
-    double solution(double a, double b) override;
 };
 
 

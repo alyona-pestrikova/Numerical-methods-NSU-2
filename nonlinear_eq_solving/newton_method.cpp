@@ -3,6 +3,7 @@
 //
 
 #include "newton_method.h"
+#include <iomanip>
 
 double newton_method::psi(double x) {
     return x - f(x) / df(x);
@@ -18,6 +19,8 @@ double newton_method::solution(double a, double b) {
         x1 = psi(x0);
         iter_count++;
     }
+    iter_count++;
 
     return x1;
 }
+

@@ -5,18 +5,22 @@
 #ifndef NUMERICAL_METHODS_NSU_2_NONLINEAR_EQUATION_H
 #define NUMERICAL_METHODS_NSU_2_NONLINEAR_EQUATION_H
 
+#include <iostream>
+#include <iomanip>
 #include <cmath>
+#include <string>
+using namespace std;
 
 class nonlinear_equation {
 protected:
-    double epsilon = 0.000000001;
+    double epsilon = 1e-9; //погрешность
+    int sign(double x);      //определение знака числа x
+    int iter_count;        //количество итераций
+    double df(double x);     //производная функции f в точке x
     double f(double x);
-    int sign(double x);
-    int iter_count;
-    double df(double x);
+    virtual double solution(double start, double end) = 0; //решение уравнения f(x) = 0 на отрезке [start, end]
 public:
-    virtual double solution(double a, double b) = 0;
-    int get_iter_cunt();
+    void print_res(double start, double end, string name = ""); //печать решения
 };
 
 #endif //NUMERICAL_METHODS_NSU_2_NONLINEAR_EQUATION_H

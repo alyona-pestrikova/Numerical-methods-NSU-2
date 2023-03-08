@@ -57,7 +57,11 @@
 				3,
 				5,
 				7,
-				9
+				9,
+				11,
+				13,
+				15,
+				17
 			]
 		}
 	],
@@ -99,7 +103,11 @@
 				3,
 				5,
 				7,
-				9
+				9,
+				11,
+				13,
+				15,
+				17
 			]
 		},
 		{
@@ -110,7 +118,11 @@
 				4,
 				6,
 				8,
-				10
+				10,
+				12,
+				14,
+				16,
+				18
 			]
 		}
 	],
@@ -175,6 +187,50 @@
 		{
 			"backtrace" : 1,
 			"path" : "nonlinear_eq_solving/nonlinear_equation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "nonlinear_eq_system_solving/simple_iterations_system.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "nonlinear_eq_system_solving/simple_iterations_system.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "nonlinear_eq_system_solving/nonlinear_system.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "nonlinear_eq_system_solving/nonlinear_system.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "nonlinear_eq_system_solving/newton_method_system.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "nonlinear_eq_system_solving/newton_method_system.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "nonlinear_eq_system_solving/gauss_method.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "nonlinear_eq_system_solving/gauss_method.h",
 			"sourceGroupIndex" : 1
 		}
 	],

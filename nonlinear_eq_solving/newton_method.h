@@ -12,9 +12,9 @@ using namespace std;
 
 class newton_method: public nonlinear_equation {
 private:
-    double psi(double x);
+    double psi(double);
+    double solution(double, double) override;
 public:
-    double solution(double a, double b) override;
 };
 
 

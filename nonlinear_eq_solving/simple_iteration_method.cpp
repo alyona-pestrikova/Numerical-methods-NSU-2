@@ -9,7 +9,7 @@ using namespace std;
 
 //здесь f(x) нужно умножить на константу, совпадающую по знаку с производной ф-ии f в окрестности корня
 double simple_iteration_method::psi(double x) {
-    return x + f(x);
+    return x - 0.3 * f(x);
 }
 
 double simple_iteration_method::solution(double a, double b) {

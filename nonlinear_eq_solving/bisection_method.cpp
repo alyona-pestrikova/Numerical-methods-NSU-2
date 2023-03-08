@@ -3,7 +3,6 @@
 //
 
 #include "bisection_method.h"
-#include "iostream"
 
 using namespace std;
 
@@ -11,7 +10,7 @@ double bisection_method::solution(double a, double b) {
     iter_count = 0;
     double x0 = (a + b) / 2;
 
-    while ((b - a) > epsilon) {
+    while ((b - a) > 2 * epsilon) {
         if (f(x0) == 0) {
             return x0;
         }
@@ -28,3 +27,5 @@ double bisection_method::solution(double a, double b) {
 
     return x0;
 }
+
+//bisection_method::bisection_method(double a, double b): nonlinear_equation(a, b) {}
