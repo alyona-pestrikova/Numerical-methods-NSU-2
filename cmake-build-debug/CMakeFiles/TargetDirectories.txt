@@ -1,3 +1,0 @@
-C:/CppProjects/Numerical-methods-NSU-2/cmake-build-debug/CMakeFiles/Numerical_methods_NSU_2.dir
-C:/CppProjects/Numerical-methods-NSU-2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/CppProjects/Numerical-methods-NSU-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
