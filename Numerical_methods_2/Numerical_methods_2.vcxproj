@@ -158,6 +158,7 @@
     <ClCompile Include="CauchyProblem\EulerMethod.cpp" />
     <ClCompile Include="CauchyProblem\RungeKuttaMethod.cpp" />
     <ClCompile Include="Graphic\graphic.cpp" />
+    <ClCompile Include="Integral\Integral.cpp" />
     <ClCompile Include="NonlinearEquations\bisection_method.cpp" />
     <ClCompile Include="NonlinearEquations\newton_method.cpp" />
     <ClCompile Include="NonlinearEquations\nonlinear_equation.cpp" />
@@ -175,6 +176,7 @@
     <ClInclude Include="CauchyProblem\EulerMethod.h" />
     <ClInclude Include="CauchyProblem\RungeKuttaMethod.h" />
     <ClInclude Include="Graphic\graphic.h" />
+    <ClInclude Include="Integral\Integral.h" />
     <ClInclude Include="NonlinearEquations\bisection_method.h" />
     <ClInclude Include="NonlinearEquations\newton_method.h" />
     <ClInclude Include="NonlinearEquations\nonlinear_equation.h" />
